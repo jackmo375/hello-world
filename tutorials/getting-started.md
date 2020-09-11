@@ -1,3 +1,7 @@
+---
+permalink: /tutorials/getting-started.md
+---
+
 Getting started with Hello World
 ================================
 
