@@ -1,6 +1,6 @@
 hello-world is a new software tool that will revolutionize saying hello to the world. These docs will help you naviagte this new software:
 
-* [tutorials](/tutorials)
+* [tutorials](/tutorials/tutorials.md)
 
 
 
