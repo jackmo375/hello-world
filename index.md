@@ -3,7 +3,8 @@ hello-world is a new software tool that will revolutionize saying hello to the w
 * [tutorials](/tutorials/tutorials.md)
 * [how tos](/how-tos/how-tos.md)
 
-
+For a living bibliography, see our [public zotero library](https://www.zotero.org/groups/2562003/world-hi/library)
+[Back to world-hi home](http://world-hi)
 
 
 ## Welcome to GitHub Pages
